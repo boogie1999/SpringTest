@@ -3,4 +3,15 @@
   <groupId>com.daimler</groupId>
   <artifactId>health-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+<parent>
+  	<groupId>com.daimler</groupId>
+  	<artifactId>SpringTest</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  	<relativePath>../SpringTest</relativePath>
+  </parent>
+  <properties>
+  	<start-class>com.daimler.application.Application</start-class>
+  </properties>
+  
 </project>
