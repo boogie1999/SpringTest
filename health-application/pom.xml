@@ -3,7 +3,6 @@
   <groupId>com.daimler</groupId>
   <artifactId>health-application</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
 <parent>
   	<groupId>com.daimler</groupId>
   	<artifactId>SpringTest</artifactId>
@@ -11,6 +10,7 @@
   </parent>
   <properties>
   	<start-class>com.daimler.application.Application</start-class>
+ 	<buildDirectory>/dev/target</buildDirectory>	
   </properties>
   
 </project>
