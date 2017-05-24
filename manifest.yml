@@ -2,4 +2,4 @@ applications:
 - name: springboot-first
   memory: 512M
   host: springboot-first
-  path: target/gs-spring-boot-0.1.0.jar
+  path: C:\Program Files (x86)\Jenkins\workspace\BUIL_SPRING_APP\health-application\pom.xml to C:\Windows\system32\config\systemprofile\.m2\repository\com\daimler\health-application\0.0.1-SNAPSHOT\health-application-0.0.1-SNAPSHOT.pom
