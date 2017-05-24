@@ -1,0 +1,4 @@
+applications:
+- name: springboot-first
+  memory: 512M
+  host: springboot-first
